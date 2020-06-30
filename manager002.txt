@@ -1,0 +1,2 @@
+this is manager001.txt
+hello !!
